@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=openTileFP\ closedTileFP\ currentTileFP\ pastTileFP\ goalTileFP\ size\ obs\ sX\ sY\ gX\ gY
+comment0.target=GameMap(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=sX\ sY\ gX\ gY
+comment1.target=void\ initMap(int,\ int,\ int,\ int)
+comment2.params=obs
+comment2.target=void\ createMap(int)
+comment3.params=x\ y\ type
+comment3.target=void\ setTileType(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ mapChanged()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+numComments=6
